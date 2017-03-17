@@ -1,7 +1,7 @@
 <h1>Инструкции по установке шаблона.</h1>
 
 <ol>
-	<li><a href="https://github.com/silencerspirit/start_project_layout_for_git">download</a>
+	<li><a href="https://github.com/silencerspirit/start_html/tree/master">download</a>
 	<li>В консоле устанавливаете node-modules: <strong>npm i</strong>;</li>
 	<li>Запускатете шаблон: <strong>gulp</strong>.</li>
   <li>Все стили пишем в: <strong>sass/_styles.sass</strong>.</li>
