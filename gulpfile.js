@@ -19,7 +19,6 @@ var gulp           = require('gulp'),
 // Скрипты проекта
 gulp.task('scripts', function() {
 	return gulp.src([
-		'libs/jquery/dist/jquery.min.js',
 		'js/common.js', // Всегда в конце
 		])
 	.pipe(concat('scripts.min.js'))
